@@ -1,0 +1,5 @@
+1.With the help of the openweathermap Api.
+2.we fetch the data of the weather from the openweather Api after we collected the complete details of the weather like to show the data of seven days.
+3.if someone else would search the city name weather using search input tag.
+4.With the help of the input field, he can search anything, can using this web app.
+5.Apart from the current weather, we have also shown the datea of 7 days.
