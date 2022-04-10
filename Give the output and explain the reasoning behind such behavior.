@@ -1,0 +1,9 @@
+1.this example is about object in javascript.
+2.object having two properties key and value pair.
+3.here idx,idx1 are objects.
+4.here we are taking object variablename of object is obj.
+5.here we are assigning the value of obj[idx]='IDX' 
+6.here we are assigning the value of obj[idx1]='IDX1' 
+7.idx and idx1 are key of obj variable that is assigning the object 
+8.the key is converted into string.
+9.the output of obj is [object object]:"idx1" 
