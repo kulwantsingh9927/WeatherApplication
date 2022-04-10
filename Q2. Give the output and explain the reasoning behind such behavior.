@@ -1,0 +1,10 @@
+1.var is the keyword that tells JavaScript you’re declaring a variable.
+2.i is the name of that variable.
+3.=,< is the operator
+4.here for( i=0:i<10;i++) the loop going till condition goes false.
+5.inside forloop the console.log("hello") running 10 times 0 to 9 times so total 10 times.
+6.inside forloop hello printed 10 times becasuse (0 1,2,3...to 9 is less than 10)
+7.10<10 that condition goes false because 10 never less than 10.
+8.than after loop terminate but i value i=10;
+9.outside forloop value of i=10;
+10.so console.log(i) value will print 10 why it will print 10 because var having global scope functanility.
