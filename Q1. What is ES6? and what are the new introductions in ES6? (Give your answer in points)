@@ -1,1 +1,15 @@
 
+1.ECMAScript 2015 (or ES6) is the sixth and major edition of the ECMAScript language specification standard. 
+2.It defines the standard for the JavaScript implementation.
+3.ES6 brought significant changes to the JavaScript language. 
+4.It introduces several new features such as, block-scoped variables, new loop for iterating over arrays and objects, template literals, and many other enhancements to make JavaScript programming easier and more fun.
+5.Examples
+i. let keyword
+ii.const keyword.
+iii.Arrow Functions.
+iv.For/of.
+v.Map Objects.
+vi.Set Objects.
+vii.Classes.
+viii.Promises.
+and many more
